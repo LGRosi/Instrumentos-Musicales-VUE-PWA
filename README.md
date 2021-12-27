@@ -1,2 +1,3 @@
-# VUE.JS-TERCER-CUATRIMESTRE-FINAL
-Aplicación PWA de instrumentos musicales
+# Instrumentos musicales
+
+### Aplicación PWA de instrumentos musicales. Para la construcción se utilizó Vue.js
